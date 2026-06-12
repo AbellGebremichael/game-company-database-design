@@ -64,6 +64,10 @@ Designed and implemented a relational database for a video game company using Or
 * Query Files – Business analysis and reporting queries
 * ERD.png – Entity Relationship Diagram
 
+  ## Entity Relationship Diagram (ERD)
+
+![ERD Diagram](ERD.png)
+
 ## Author
 
 **Abell Gebremichael**
